@@ -11,3 +11,6 @@ Previously I worked as a mechanical engineer specialist in rotary and static equ
 
 **SmartMaterials/Smart EDP:** [https://hexagonppm.com/evolve/digital-innovation/smart-edp-building-ecopetrol-future-smartly](https://hexagonppm.com/evolve/digital-innovation/smart-edp-building-ecopetrol-future-smartly)
 
+**Linkedin** [https://www.linkedin.com/in/carlos-enrique-salas-carpio/](https://www.linkedin.com/in/carlos-enrique-salas-carpio/)
+
+**Twiteer** [@cesalascarpio](https://twitter.com/cesalascarpio)
