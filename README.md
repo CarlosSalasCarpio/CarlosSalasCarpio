@@ -9,3 +9,5 @@ I'm currently developing as a side project a web platform for the human resource
 
 Previously I worked as a mechanical engineer specialist in rotary and static equipment for 4+ years in the Oil and Gas industry, participating in projects with clients such as Ecopetrol, Repsol, Enagas and Frontera Energy.
 
+**SmartMaterials/Smart EDP:** [https://hexagonppm.com/evolve/digital-innovation/smart-edp-building-ecopetrol-future-smartly](https://hexagonppm.com/evolve/digital-innovation/smart-edp-building-ecopetrol-future-smartly)
+
