@@ -1,4 +1,4 @@
-### Carlos Enrique Salas
+### Carlos Enrique Salas Carpio
 
 ### About me
 Hi, I'm Carlos Salas, Mechanical Engineer and self-taught developer based in Colombia, currently working as Implementation Analyst for Hexagon's Smart Materials, a supply chain management software being adopted by Ecopetrol, the Colombia's national petroleum company.
