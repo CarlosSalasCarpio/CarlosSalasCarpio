@@ -5,7 +5,7 @@ Hi, I'm Carlos Salas, Mechanical Engineer and self-taught developer based in Col
 
 I started coding at the beginning of 2021 when I decided to take "CS50's Introduction to Computer Science" followed by "CS50's Web Programming with Python and JavaScript".
 
-I'm currently developing as a side project a web platform for the human resources department of a medium size engineering company, that allows employees to download payroll stubs and labor certificates. For this I'm using Django and planning to add some React soon.
+I'm currently developing as a side project a web platform for the human resources department of a medium size engineering company, that allows employees to download payroll stubs and labor certificates.
 
 Previously I worked as a mechanical engineer specialist in rotary and static equipment for 4+ years in the Oil and Gas industry, participating in projects with clients such as Ecopetrol, Repsol, Enagas and Frontera Energy.
 
