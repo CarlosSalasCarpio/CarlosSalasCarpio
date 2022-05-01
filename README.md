@@ -13,4 +13,4 @@ Previously I worked as a mechanical engineer specialist in rotary and static equ
 
 **Linkedin** [https://www.linkedin.com/in/carlos-enrique-salas-carpio/](https://www.linkedin.com/in/carlos-enrique-salas-carpio/)
 
-**Twiteer** [@cesalascarpio](https://twitter.com/cesalascarpio)
+**Twitter** [@cesalascarpio](https://twitter.com/cesalascarpio)
