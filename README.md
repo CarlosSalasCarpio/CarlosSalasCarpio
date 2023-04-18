@@ -1,13 +1,9 @@
 ### Carlos Enrique Salas Carpio
 
 ### About me
-Hi, I'm Carlos Salas, Mechanical Engineer and self-taught developer based in Colombia, currently working as Implementation Analyst for Hexagon's Smart Materials, a supply chain management software being adopted by Ecopetrol, the Colombia's national petroleum company.
+Carlos Enrique Salas is a Backend Developer and Mechanical Engineer, with over 5 years of experience. He has a solid foundation in programming using Python, Django, Flask, SQL, PostgreSQL, Oracle Database, JavaScript, and other web technologies. Carlos has developed web applications such as Timebli (a time management web app currently used by over 200 users) and a human resources web application for a medium-sized engineering company, showcasing his expertise in Python with Django and knowledge of Docker, Azure, Data Modeling, and Git and GitHub. He is also a lifelong learner, completing courses from HarvardX and Andes University to enrich his knowledge in web programming, computer science, and machine learning for business intelligence.
 
-I started coding at the beginning of 2021 when I decided to take "CS50's Introduction to Computer Science" followed by "CS50's Web Programming with Python and JavaScript".
-
-I'm currently developing as a side project a web platform for the human resources department of a medium size engineering company, that allows employees to download payroll stubs and labor certificates.
-
-Previously I worked as a mechanical engineer specialist in rotary and static equipment for 4+ years in the Oil and Gas industry, participating in projects with clients such as Ecopetrol, Repsol, Enagas and Frontera Energy.
+As a mechanical engineer, Carlos has successfully participated in numerous international projects related to digital transformation, energy transition, and sustainability. This experience grants Carlos a deep, valuable understanding of different industries, allowing him to conceptualize, plan, and execute IT solutions according to the clients' requirements. Fluent in English and Spanish, Carlos is eager to contribute his expertise in backend and full stack roles, where he can utilize his extensive experience in programming, web development, and project management to deliver outstanding results.
 
 **SmartMaterials/Smart EDP:** [https://hexagonppm.com/evolve/digital-innovation/smart-edp-building-ecopetrol-future-smartly](https://hexagonppm.com/evolve/digital-innovation/smart-edp-building-ecopetrol-future-smartly)
 
