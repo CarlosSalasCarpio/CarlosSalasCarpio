@@ -1,4 +1,4 @@
-### Carlos Enrique Salas Carpio
+### Carlos Salas
 
 ### About me
 👋 Hi, I'm Carlos, a full-stack developer with a passion for backend technologies and an entrepreneurial spirit.
