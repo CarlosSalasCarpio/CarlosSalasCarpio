@@ -10,11 +10,10 @@
 - Managed frontend and backend development
 - Ensured the design's responsiveness, improving usability and appearance
 
-### 🎯 At Hexagon PPM
-- Specialize in implementing Smart Materials for Ecopetrol 🛢️
-- Focus on system customization & database management
+### 🎯 Currently working at Hexagon PPM
+- Specialize in implementing Smart Materials for Ecopetrol (a supply chain management software) 🛢️
+- Focus on system customization & database management using Oracle DB and PostgreSQL)
 - Proficiency with PostgreSQL and Oracle Database, SQL & PL/SQL 🗃️
-- Conduct client training and develop technical documentation 📖
 - Enhance tool functionality and integration for Ecopetrol's operations
 
 ### 🔩 Background as a Mechanical Engineer
