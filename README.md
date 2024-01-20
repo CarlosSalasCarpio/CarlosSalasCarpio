@@ -25,3 +25,7 @@
 **Linkedin** [https://www.linkedin.com/in/carlos-enrique-salas-carpio/](https://www.linkedin.com/in/carlos-enrique-salas-carpio/)
 
 **Twitter** [@cesalascarpio](https://twitter.com/cesalascarpio)
+
+**Personal site** [www.carlosesalas.com](https://www.carlosesalas.com/)
+
+**Timebli** [Timebli](http://www.timebli.com)
